@@ -13,5 +13,7 @@ I'm Jiawei Yang, a senior student majoring in statistics in USTC. My reasearch i
 Research interests
 ------
 · Image Alighment
+
 · Biostat
+
 · Robust Group synchronization
