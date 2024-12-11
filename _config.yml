@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_1135.JPG"
+  avatar           : "photo1.png"
   name             : "Jiawei Yang"
   pronouns         : # example: "she/her"  
   bio              : "student majoring in statistics in USTC"
